@@ -17,3 +17,5 @@ dragon
 
 
 dragon : 1111
+
+dragonchan : 11111
