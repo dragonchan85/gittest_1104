@@ -2,7 +2,13 @@ aaa
 bbb
 ccc
 ddd
+<<<<<<< HEAD
 eeeeeeeeee
 dddde
 -m
 -am
+=======
+aaa
+sdffffff
+branch br
+>>>>>>> br
