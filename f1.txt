@@ -2,21 +2,12 @@ aaa
 bbb
 ccc
 ddd
-<<<<<<< HEAD
-eeeeeeeeee
-dddde
--m
--am
-=======
-aaa
-sdffffff
-branch br
->>>>>>> br
 
 dragon
 
 
 dragon : 1111
 
+dragonchan : 11111
 
 master : 1111
